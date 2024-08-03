@@ -37,6 +37,11 @@
 
 body {
     background-color: var(--clr-background);
+    /* background-image: url(/Imgs/aesthetic-smoke-dark-desktop-wallpaper.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
 }
 
 html, body{
